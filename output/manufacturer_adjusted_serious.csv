@@ -1,0 +1,4 @@
+VAX_MANU,lots_over_1000_reports,avg_oe_ratio,median_oe_ratio,max_oe_ratio,observed_serious,expected_serious,manufacturer_oe_ratio
+JANSSEN,19,1.313,1.296,1.868,5603.0,4281.82,1.309
+PFIZER\BIONTECH,125,1.062,1.139,1.593,42503.0,38891.75,1.093
+MODERNA,92,0.774,0.775,1.104,21912.0,29881.42,0.733

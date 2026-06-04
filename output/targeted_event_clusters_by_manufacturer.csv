@@ -1,0 +1,6 @@
+VAX_MANU,total_reports,cardiac_inflammation_reports,cardiac_inflammation_pct,acute_cardiac_reports,acute_cardiac_pct,clotting_embolic_reports,clotting_embolic_pct,stroke_related_reports,stroke_related_pct,neuro_cluster_reports,neuro_cluster_pct,death_symptom_reports,death_symptom_pct
+JANSSEN,47594,135.0,0.284,310.0,0.651,1608.0,3.379,429.0,0.901,5931.0,12.462,957.0,2.011
+UNKNOWN MANUFACTURER,943,8.0,0.848,4.0,0.424,29.0,3.075,9.0,0.954,112.0,11.877,8.0,0.848
+NOVAVAX,558,5.0,0.896,2.0,0.358,5.0,0.896,3.0,0.538,53.0,9.498,4.0,0.717
+PFIZER\BIONTECH,335988,2009.0,0.598,2224.0,0.662,4338.0,1.291,2071.0,0.616,22817.0,6.791,5358.0,1.595
+MODERNA,332366,1056.0,0.318,1638.0,0.493,3391.0,1.02,1592.0,0.479,16654.0,5.011,5823.0,1.752
